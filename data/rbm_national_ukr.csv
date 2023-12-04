@@ -1,0 +1,4 @@
+ISO3,DataId,Indicator,Value,Precision,DHS_CountryCode,CountryName,SurveyYear,SurveyId,IndicatorId,IndicatorOrder,IndicatorType,CharacteristicId,CharacteristicOrder,CharacteristicCategory,CharacteristicLabel,ByVariableId,ByVariableLabel,IsTotal,IsPreferred,SDRID,RegionId,SurveyYearLabel,SurveyType,DenominatorWeighted,DenominatorUnweighted,CILow,CIHigh,LevelRank
+#country+code,#meta+id,#indicator+name,#indicator+value+num,#indicator+precision,,#country+name,#date+year,#survey+id,#indicator+code,,,,,,,#indicator+label+code,#indicator+label,,,,,,,,,,,
+UKR,169220,Under-five mortality rate,17,0,UA,Ukraine,2007,UA2007DHS,CM_ECMR_C_U5M,63206050,I,1000,0,Total,Total,14001,Five years preceding the survey,1,1,CMECMRCU5M,,2007,DHS,,,9,25,
+UKR,169138,Under-five mortality rate,19,0,UA,Ukraine,2007,UA2007DHS,CM_ECMR_C_U5M,63206050,I,1000,0,Total,Total,14003,Ten years preceding the survey,1,0,CMECMRCU5M,,2007,DHS,,,13,25,
